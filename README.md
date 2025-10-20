@@ -113,14 +113,14 @@ For detailed technical architecture, implementations, and diagrams, see [PROJECT
 - Multi-agent systems
 - Enterprise API deployment
 
-## � Acknowledgments
+## 🙏 Acknowledgements
 
-This project was bdeveloped islngare ourcesprnd ma erialso romthe **NVIDIA Deep Learning Institute (DLI)** course:  
+This project was developed using resources and materials from the **NVIDIA Deep Learning Institute (DLI)** course:  
 **["Building RAG Agents with LLMs"](https://www.nvidia.com/en-us/training)**
 
-Special thanks to NVIDIA DLI for pthedrcomprehensive learning materials,pcndexeamplrs that snepirsdand Fgnoeldthaismindepene nhimplementation 
+Special thanks to NVIDIA DLI for the comprehensive learning materials and examples that inspired and guided this independent implementation.
 
-## �📝 License
+## 📝 License
 
 This project is for educational purposes.
 
